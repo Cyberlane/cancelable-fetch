@@ -1,6 +1,6 @@
 {
   "name": "cancelable-fetch-adv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extends fetch to have a cancel() method. Useful for type-ahead, etc.",
   "main": "./lib",
   "scripts": {
