@@ -1,3 +1,6 @@
+[![Version](http://img.shields.io/npm/v/cancelable-fetch-adv.svg)](https://www.npmjs.org/package/cancelable-fetch-adv)
+[![npm](https://img.shields.io/npm/dt/cancelable-fetch-adv.svg)](Downloads)
+
 # cancelable-fetch-adv
 
 Adds a `cancel()` method to the Promise on fetch, useful when doing type-ahead or similar.
